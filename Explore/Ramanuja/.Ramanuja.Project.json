@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2SGXlXr3zmPcy8j1CQJhOI",
+    "name" : "Ramanuja",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-31T12:36:25.657Z",
+  "objectRefs" : [ ]
+}
