@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "bMdyV0urAgNc1fMj06KfCv",
+    "name" : "Atindra Mishra",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-14T15:52:17.013Z",
+  "objectRefs" : [ ]
+}
